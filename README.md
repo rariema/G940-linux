@@ -17,9 +17,9 @@ called **ff_memless_next**.
 
 ## Support
 
-Module is tested with kernel version `5.4.0`. Other kernels *might* work, but this is not tested. In any case, use of this module is at **your own risk**.
+Module is tested with kernel version '7.0.10'. Other kernels *might* work, but this is not tested. In any case, use of this module is at **your own risk**.
 
-Module may be installed manually or by creating a DKMS package (for Ubuntu, Debian etc.).
+Module may be installed manually or by creating a DKMS package (for Ubuntu, Debian etc.)
 
 ## Build and install kernel module without packackage
 
